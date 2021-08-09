@@ -5,6 +5,6 @@
   <title>Document</title>
 </head>
 <body>
-  <p>zombiemans cool blog!!!</p>
+  <h1>zombiemans cool blog!!!</h1>
 </body>
 </html>
