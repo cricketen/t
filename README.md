@@ -7,7 +7,7 @@
 <body>
   <h1>zombiemans cool blog!!!</h1>
   <p>&nbsp;</p>
-  <video controls="controls" width="300" height="250">
+  <video controls="controls" width="500" height="340">
   <source src="https://cdn.discordapp.com/attachments/546051174097354776/566607884335579146/time_broke.webm" type="video/mp4"></video>
   </video>
   </p>
