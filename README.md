@@ -11,6 +11,6 @@
   <source src="https://cdn.discordapp.com/attachments/720303706943389746/785451444651294760/video0_2_1.mp4" type="video/mp4"></video>
   </video>
   </p>
-  <p> today i saw a bird!! </p>
+  <p>today i saw a bird!!</p>
 </body>
 </html>
